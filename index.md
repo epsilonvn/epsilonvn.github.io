@@ -1,6 +1,4 @@
-> Email: tapchi.epsilon@gmail.com
->
-> FB: [www.facebook.com/TapchiEpsilon](https://www.facebook.com/TapchiEpsilon)
+    [Email](mailto:tapchi.epsilon@gmail.com?subject=[Epsilon]), [Facebook](https://www.facebook.com/TapchiEpsilon)
 
 ### Tin tức 
 * Tạp chí Epsilon số 19 sẽ được xuất bản vào ngày mồng 2 tết năm Tân Sửu (13/2/2021)
@@ -25,8 +23,4 @@
 * [Epsilon số 16](/archives/epsilon_vol16_2019December.pdf)
 * [Epsilon số 17](/archives/epsilon_vol17_2020April.pdf)
 * [Epsilon số 18](/archives/epsilon_vol18_2020August.pdf)
-
-> Email: tapchi.epsilon@gmail.com
->
-> FB: [www.facebook.com/TapchiEpsilon](https://www.facebook.com/TapchiEpsilon)
 
