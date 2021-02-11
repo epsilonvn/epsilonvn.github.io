@@ -1,5 +1,3 @@
-> Website: epsilonvn.github.io
->
 > Email: tapchi.epsilon@gmail.com
 >
 > FB: [www.facebook.com/TapchiEpsilon](https://www.facebook.com/TapchiEpsilon)
@@ -28,6 +26,7 @@
 * [Epsilon số 17](/archives/epsilon_vol17_2020April.pdf)
 * [Epsilon số 18](/archives/epsilon_vol18_2020August.pdf)
 
-> Website: epsilonvn.github.io
 > Email: tapchi.epsilon@gmail.com
+>
 > FB: [www.facebook.com/TapchiEpsilon](https://www.facebook.com/TapchiEpsilon)
+
