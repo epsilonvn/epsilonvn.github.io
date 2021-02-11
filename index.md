@@ -1,5 +1,7 @@
 > Website: epsilonvn.github.io
+>
 > Email: tapchi.epsilon@gmail.com
+>
 > FB: [www.facebook.com/TapchiEpsilon](https://www.facebook.com/TapchiEpsilon)
 
 ### Tin tức 
