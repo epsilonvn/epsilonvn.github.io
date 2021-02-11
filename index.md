@@ -1,8 +1,9 @@
 
 ### Tin tức 
-* Tạp chí Epsilon số 19 sẽ được xuất bản vào ngày mồng 2 tết năm Tân Sửu (13/2/2021).
+* Tạp chí Epsilon số 19 sẽ được xuất bản vào ngày mồng 2 tết năm Tân Sửu (13/2/2021)
+* **10/02/2021:** Website và email của tạp chí Epsilon được cập nhật
 
-## Các số Epsilon đã phát hành 
+### Các số Epsilon đã phát hành 
 * [Epsilon số 1](/archives/epsilon_vol01_2015February.pdf)
 * [Epsilon số 2](/archives/epsilon_vol02_2015April.pdf)
 * [Epsilon số 3](/archives/epsilon_vol03_2015June.pdf)
