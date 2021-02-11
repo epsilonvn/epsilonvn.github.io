@@ -1,7 +1,4 @@
-<header>
-Tap chi Epsilon
-</header>
-<main>
+% Tap chi Epsilon
 ### Tin tức 
 * Tạp chí Epsilon số 19 sẽ được xuất bản vào ngày mồng 2 tết năm Tân Sửu (13/2/2021).
 
@@ -24,4 +21,3 @@ Tap chi Epsilon
 * [Epsilon số 16](/archives/epsilon_vol16_2019December.pdf)
 * [Epsilon số 17](/archives/epsilon_vol17_2020April.pdf)
 * [Epsilon số 18](/archives/epsilon_vol18_2020August.pdf)
-</main>
