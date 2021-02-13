@@ -1,7 +1,7 @@
     Email:tapchi.epsilon@gmail.com, Facebook: https://www.facebook.com/TapchiEpsilon
 
 ### Tin tức 
-* Tạp chí Epsilon số 19 sẽ được xuất bản vào ngày mồng 2 tết năm Tân Sửu (13/2/2021)
+* **13/02/2021** [Epsilon số 19](/archives/epsilon_vol19_2021February.pdf) đã được xuất bản vào ngày mồng 2 tết năm Tân Sửu (13/2/2021)
 * **10/02/2021:** Website và email của tạp chí Epsilon được cập nhật
 
 ### Các số Epsilon đã phát hành 
