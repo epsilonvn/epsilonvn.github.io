@@ -1,6 +1,7 @@
     Email:tapchi.epsilon@gmail.com, Facebook: https://www.facebook.com/TapchiEpsilon
 
 ### Tin tức 
+* **13/08/2021:** Tạp chí [Epsilon số 20](/archives/epsilon_vol20_2021August.pdf) đã được xuất bản vào ngày 13/8/2021
 * **07/06/2021:** Tạp chí Epsilon số 20 sẽ được xuất bản vào ngày 13 tháng 8 năm 2021
 * **13/02/2021:** Tạp chí [Epsilon số 19](/archives/epsilon_vol19_2021February.pdf) đã được xuất bản vào ngày mồng 2 tết năm Tân Sửu (13/2/2021)
 * **10/02/2021:** Website và email của tạp chí Epsilon được cập nhật
@@ -24,4 +25,5 @@
 * [Epsilon số 16](/archives/epsilon_vol16_2019December.pdf)
 * [Epsilon số 17](/archives/epsilon_vol17_2020April.pdf)
 * [Epsilon số 18](/archives/epsilon_vol18_2020August.pdf)
-
+* [Epsilon số 19](/archives/epsilon_vol19_2021February.pdf)
+* [Epsilon số 20](/archives/epsilon_vol20_2021August.pdf)
