@@ -1,6 +1,7 @@
     Email:tapchi.epsilon@gmail.com, Facebook: https://www.facebook.com/TapchiEpsilon
 
 ### Tin tức 
+* **13/04/2023:** Tạp chí [Epsilon số 23](/archives/Epsilon23.pdf) sẽ được xuất bản vào ngày 27/4/2023. 
 * **19/08/2022:** Tạp chí [Epsilon số 22 - Phần 2](/archives/Epsilon_vol22_2022August.pdf) đã được xuất bản vào ngày 19/8/2022.
 * **13/08/2022:** Tạp chí [Epsilon số 22 - Phần 1](/archives/Epsilon_vol22_2022August.pdf) đã được xuất bản vào ngày 13/2/2022, phần 2 sẽ được xuất bản vào ngày 19/8/2022.
 * **13/02/2022:** Tạp chí [Epsilon số 21](/archives/Epsilon_vol21_2022February.pdf) đã được xuất bản vào ngày 13/2/2022
