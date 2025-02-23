@@ -24,4 +24,5 @@
 | [Epsilon số 17](/archives/epsilon_vol17_2020April.pdf) | [Epsilon số 18](/archives/epsilon_vol18_2020August.pdf) |
 | [Epsilon số 19](/archives/epsilon_vol19_2021February.pdf) | [Epsilon số 20](/archives/epsilon_vol20_2021August.pdf) |
 | [Epsilon số 21](/archives/Epsilon_vol21_2022February.pdf) | [Epsilon số 22](/archives/Epsilon_vol22_2022August.pdf) |
-| [Epsilon số 23](/archives/epsilon_vol23_2023June.pdf) | [Epsilon số 24](/archives/Epsilon_vol24_2023December.pdf) |
+| [Epsilon số 23](/archives/epsilon_vol23_2023June.pdf) | [Epsilon số 24](/archives/Epsilon_vol24_2023December.pdf) | [Epsilon số 25](/archives/Epsilon_vol25_2025February.pdf) |
+
