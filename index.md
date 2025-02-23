@@ -36,3 +36,4 @@
 * [Epsilon số 21](/archives/Epsilon_vol21_2022February.pdf)
 * [Epsilon số 22](/archives/Epsilon_vol22_2022August.pdf)
 * [Epsilon số 23](/archives/Epsilon_vol23_2023June.pdf)
+* [Epsilon số 24](/archives/Epsilon_vol24_2023December.pdf)
