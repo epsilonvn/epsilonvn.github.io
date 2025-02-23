@@ -13,7 +13,6 @@
 * **10/02/2021:** Website và email của tạp chí Epsilon được cập nhật
 
 ### Các số Epsilon đã phát hành 
-| --- | --- |
 | [Epsilon số 1](/archives/epsilon_vol01_2015February.pdf) | [Epsilon số 2](/archives/epsilon_vol02_2015April.pdf) |
 | [Epsilon số 3](/archives/epsilon_vol03_2015June.pdf) | [Epsilon số 4](/archives/epsilon_vol04_2015August_beta.pdf) |
 | [Epsilon số 5](/archives/epsilon_vol05_2015October.pdf) | [Epsilon số 6](/archives/Epsilon_vol06_2015December.pdf) |
