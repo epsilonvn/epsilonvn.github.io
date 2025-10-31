@@ -6,11 +6,11 @@
 * **13/06/2023:** Tạp chí [Epsilon số 23](/archives/Epsilon_vol23_2023June.pdf) đã được xuất bản vào ngày 13/6/2023. 
 * **19/08/2022:** Tạp chí [Epsilon số 22 - Phần 2](/archives/Epsilon_vol22_2022August.pdf) đã được xuất bản vào ngày 19/8/2022.
 * **13/08/2022:** Tạp chí [Epsilon số 22 - Phần 1](/archives/Epsilon_vol22_2022August.pdf) đã được xuất bản vào ngày 13/9/2022, phần 2 sẽ được xuất bản vào ngày 19/8/2022.
-* **13/02/2022:** Tạp chí [Epsilon số 21](/archives/Epsilon_vol21_2022February.pdf) đã được xuất bản vào ngày 13/2/2022
-* **13/08/2021:** Tạp chí [Epsilon số 20](/archives/epsilon_vol20_2021August.pdf) đã được xuất bản vào ngày 13/8/2021
-* **07/06/2021:** Tạp chí Epsilon số 20 sẽ được xuất bản vào ngày 13 tháng 8 năm 2021
-* **13/02/2021:** Tạp chí [Epsilon số 19](/archives/epsilon_vol19_2021February.pdf) đã được xuất bản vào ngày mồng 2 tết năm Tân Sửu (13/2/2021)
-* **10/02/2021:** Website và email của tạp chí Epsilon được cập nhật
+* **13/02/2022:** Tạp chí [Epsilon số 21](/archives/Epsilon_vol21_2022February.pdf) đã được xuất bản vào ngày 13/2/2022.
+* **13/08/2021:** Tạp chí [Epsilon số 20](/archives/epsilon_vol20_2021August.pdf) đã được xuất bản vào ngày 13/8/2021.
+* **07/06/2021:** Tạp chí Epsilon số 20 sẽ được xuất bản vào ngày 13 tháng 8 năm 2021.
+* **13/02/2021:** Tạp chí [Epsilon số 19](/archives/epsilon_vol19_2021February.pdf) đã được xuất bản vào ngày mồng 2 tết năm Tân Sửu (13/2/2021).
+* **10/02/2021:** Website và email của tạp chí Epsilon được cập nhật.
 
 ### Các số Epsilon đã phát hành 
 | [Epsilon số 1](/archives/epsilon_vol01_2015February.pdf) 
@@ -38,4 +38,3 @@
 | [Epsilon số 23](/archives/Epsilon_vol23_2023June.pdf) 
 | [Epsilon số 24](/archives/Epsilon_vol24_2023December.pdf) 
 | [Epsilon số 25](/archives/Epsilon_vol25_2025February.pdf) |
-
